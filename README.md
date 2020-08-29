@@ -44,7 +44,7 @@ docker exec -it <your image name>/jenkins:0.1.0 bash
 ##### MATRIX (Username|Password)
 
 * `JENKINS_USER` - Initial administrative username to create **default** - 'administrator'
-* `JENKINS_PASS` - Password to set for `JENKINS_USER` **default** - '2EMZGvLpBJQ7gJMu'
+* `JENKINS_PASS` - Password to set for `JENKINS_USER` **default** - 'bT9%*8PK2.mTT~^;'
 
 ##### SAML
 
