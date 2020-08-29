@@ -1,0 +1,14 @@
+ansible
+cloudbees-folder
+docker-plugin
+docker-workflow
+git
+git-client
+matrix-auth
+parameterized-trigger
+pipeline-build-step
+pipeline-multibranch-defaults
+saml
+slack
+workflow-aggregator
+workflow-job
